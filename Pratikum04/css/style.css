@@ -1,0 +1,33 @@
+h1,h2 {
+   color: green; 
+   text-align: center; 
+   font-style: italic; 
+   background-color: yellow;
+}
+p {
+   font-style: oblique;
+   background-color: yellow;
+   text-align: center;
+}
+th {
+   background-color:yellow;
+   color: #000;
+   font-style: unset; 
+   }
+tr,td {
+   font-weight: unset;
+   background-color: white;
+}
+li {
+   list-style: circle;
+   text-align: center;
+   background-color: white;
+}
+body{
+   background-image: url('Logo 99 .jpg');
+   border: 15px solid;
+   border-left: 30px inset rgb(146, 250, 146); 
+   border-right: 30px inset green;
+   color: black;
+   background-color: rgb(174, 240, 121);
+}
